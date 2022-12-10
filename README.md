@@ -1,6 +1,6 @@
 # PES-Final-Project
 
-/**Objective:**/
+**Objective:**
 
 Implement the MMA8451Q accelerometer over I2C, and develop the logic for a digital
 angle gauge without the LCD screen. LED color is changed in response to the device
@@ -8,7 +8,7 @@ orientation allowing a user to set the saw blade on a table saw to exactly 45° 
 table. Calibrate the sensor to 0° setting to improve the accuracy by using a button connected to
 GPIO to indicate 0° or by sending a command over UART.
 
-/**Implementation:**/
+**Implementation:**
 
 State machine:
 
@@ -28,7 +28,7 @@ d. White color on the controller represents it is 90 degrees</br>
 
 The change of color is obtained by using PWM.
 
-/**Verification:**/
+**Verification:**
 
 The change of angle is manually tested by placing the sensor at angles like 30, 45 , 60 and 90 degrees.
 The calibration is tested manually by giving calibrate command and validating if the that angle is reading a zero.
