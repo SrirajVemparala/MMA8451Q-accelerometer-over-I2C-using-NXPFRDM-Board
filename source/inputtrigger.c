@@ -60,7 +60,7 @@ void PORTD_IRQHandler(void)
 
 		/* reading again to confirm that the
 		 * switch was not pressed accidentally */
-		if((1 << SW_POS)& (GPIOD->PDIR) == 0)
+		if(((GPIOD->PDIR)&(1 << SW_POS))  == 0)
 		{
 			/* Set the switch flag as the
 			 * switch is pressed in reality */
