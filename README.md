@@ -34,3 +34,5 @@ The change of angle is manually tested by placing the sensor at angles like 30, 
 The calibration is tested manually by giving calibrate command and validating if the that angle is reading a zero.
 The PWM is tested by an automated test script written which tests if the LED glows correctly.
 
+**Video Demonstration:**
+https://drive.google.com/file/d/1Gwqd1AqHxSYHFv0-xNT2FIguOnZMl6n3/view?usp=sharing
