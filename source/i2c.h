@@ -1,5 +1,5 @@
 /******************************************************************************
-* @file: i2c.c
+* @file: i2c.h
 *
 * @brief: This files consists of the declarations of i2c communication functionalities
 *

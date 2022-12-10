@@ -1,5 +1,5 @@
 /******************************************************************************
-* @file: inputtrigger.c
+* @file: inputtrigger.h
 *
 * @brief: This files consists of the GPIO push button functionality
 *

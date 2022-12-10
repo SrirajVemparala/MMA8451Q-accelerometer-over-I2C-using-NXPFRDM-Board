@@ -1,5 +1,5 @@
 /******************************************************************************
-* @file: PWM.c
+* @file: PWM.h
 *
 * @brief: This files consists of the declarations to achieve PWM functionalities
 *
