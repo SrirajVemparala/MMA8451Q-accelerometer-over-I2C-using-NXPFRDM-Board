@@ -1,0 +1,6 @@
+C:\Users\USER\Documents\MCUXpressoIDE_11.6.0_8187\workspace\Accelerometermainproject\CMSIS/core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+../source/sysclock.c:25:6:sysclock_init	8	static
+../source/sysclock.c:36:12:now	8	static
+../source/sysclock.c:44:6:reset_timer	8	static
+../source/sysclock.c:52:12:get_timer	8	static
+../source/sysclock.c:60:6:SysTick_Handler	8	static

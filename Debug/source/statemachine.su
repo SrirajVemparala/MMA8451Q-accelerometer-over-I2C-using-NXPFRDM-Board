@@ -1,0 +1,4 @@
+../source/statemachine.c:56:6:statemachine	16	static
+../source/statemachine.c:103:6:zero_calib	24	static
+../source/statemachine.c:122:6:display_angle	8	static
+../source/statemachine.c:180:5:calibrate_angle	16	static
