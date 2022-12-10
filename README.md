@@ -18,6 +18,7 @@ There are three states present:
 2. CALIBRATE_ANGLE: This state is entered if the calibrate command is received or the GPIO pin PD7 is made to ground
 3. ANGLE_DATA_DISPLAY: This expression is entered calibration in first two cases was successful. In this state the angle data is read. 
 
+![statemachine](https://user-images.githubusercontent.com/91862302/206840808-1a91bcfe-9082-4191-8d02-8abbed38aac4.PNG)
 
 The detection of signals is detected by the change of color. The following colors are used for detection:
 
