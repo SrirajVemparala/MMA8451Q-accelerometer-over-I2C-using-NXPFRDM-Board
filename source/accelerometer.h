@@ -1,9 +1,12 @@
-/*
- * accelerometer.h
- *
- *  Created on: 06-Dec-2022
- *      Author: VSR
- */
+/******************************************************************************
+* @file: accelerometer.h
+*
+* @brief: This files consists of accelerometer conversion logic
+*
+* @author: Raghu Sai Phani Sriraj Vemparala
+* @date:  9-DECEMBER-2022
+* @references: https://github.com/alexander-g-dean/ESF/tree/master/NXP/Code/Chapter_8/I2C-Demo
+*******************************************************************************/
 
 #ifndef ACCELEROMETER_H_
 #define ACCELEROMETER_H_
