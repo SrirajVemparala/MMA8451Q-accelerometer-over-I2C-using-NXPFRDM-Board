@@ -42,5 +42,3 @@ The UART configuration used was:</br>
 2. Parity bit: None</br>
 3. Stop bit: 2</br>
 
-**Video Demonstration:**
-https://drive.google.com/file/d/1Gwqd1AqHxSYHFv0-xNT2FIguOnZMl6n3/view?usp=sharing
